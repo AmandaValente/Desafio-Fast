@@ -1,0 +1,32 @@
+
+CREATE DATABASE workshopfast;
+GO
+
+USE workshopfast;
+GO
+
+CREATE TABLE Colaboradores ( Id INT PRIMARY KEY IDENTITY(1,1),
+                             Nome NVARCHAR(100) NOT NULL );
+
+CREATE TABLE Workshops ( Id INT PRIMARY KEY IDENTITY(1,1), 
+						Nome NVARCHAR(100) NOT NULL, 
+						DataDeRealizacao DATETIME NOT NULL, 
+						Descricao NVARCHAR(255) );
+
+
+INSERT INTO Colaboradores (Nome) VALUES ('João Silva');
+INSERT INTO Colaboradores (Nome) VALUES ('Maria Oliveira');
+INSERT INTO Colaboradores (Nome) VALUES ('Pedro Souza'); 
+INSERT INTO Colaboradores (Nome) VALUES ('Ana Lima'); 
+INSERT INTO Colaboradores (Nome) VALUES ('Carlos Ferreira'); 
+INSERT INTO Colaboradores (Nome) VALUES ('Juliana Santos');
+
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('Introdução ao C#', '2023-04-06 16:00:00', 'Workshop sobre os fundamentos da linguagem C#');
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('Desenvolvimento Web', '2023-07-06 16:00:00', 'Workshop sobre desenvolvimento web com ASP.NET Core'); 
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('Banco de Dados', '2023-10-06 16:00:00', 'Workshop sobre design e implementação de bancos de dados'); 
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('DevOps', '2023-01-06 16:00:00', 'Workshop sobre práticas e ferramentas de DevOps'); 
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('Segurança da Informação', '2023-04-06 16:00:00', 'Workshop sobre princípios de segurança da informação'); 
+INSERT INTO Workshops (Nome, DataDeRealizacao, Descricao) VALUES ('Inteligência Artificial', '2023-07-06 16:00:00', 'Workshop sobre conceitos e aplicações de IA');
+
+select*from Colaboradores
+select*from Workshops
