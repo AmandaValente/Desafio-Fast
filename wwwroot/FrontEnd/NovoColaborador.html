@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novo Colaborador</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Novo Colaborador</h1>
+        <form id="colaborador-form">
+            <label for="colaborador-nome">Nome:</label>
+            <input type="text" id="colaborador-nome" placeholder="Nome do Colaborador" required />
+
+            <button type="button" onclick="salvarNovoColaborador()">Cadastrar</button>
+            <button type="button" onclick="window.location.href='colaboradores.html'">Voltar</button>
+        </form>
+    </div>
+    <script src="novoColaborador.js"></script>
+</body>
+</html>

@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\workshops.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\workshops.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\workshops.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\workshops.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\novoworkshop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\novoworkshop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\novoworkshop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\novoworkshop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\novocolaborador.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\novocolaborador.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\novocolaborador.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\novocolaborador.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\editarworkshop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\editarworkshop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\editarworkshop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\editarworkshop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\editarcolaborador.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\editarcolaborador.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\editarcolaborador.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\editarcolaborador.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\colaboradores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\colaboradores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\wwwroot\\frontend\\colaboradores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:wwwroot\\frontend\\colaboradores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\mam\u00E3e\\fast\\desafiofast\\desafiofast\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0971CE-D0FC-41BB-BF3C-36DEFE2A8FA4}|DesafioFast.csproj|solutionrelative:models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NovoWorkshop.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\NovoWorkshop.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\NovoWorkshop.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T00:46:58.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NovoWorkshop.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\NovoWorkshop.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\NovoWorkshop.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:47:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\styles.css",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\styles.css",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T21:59:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "workshops.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\workshops.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\workshops.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-04T21:59:16.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "workshops.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\workshops.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\workshops.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:22:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:36:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkshopController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Controllers\\WorkshopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkshopController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Controllers\\WorkshopController.cs",
+              "RelativeToolTip": "Controllers\\WorkshopController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:36:59.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:56:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NovoColaborador.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\NovoColaborador.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\NovoColaborador.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:44:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NovoColaborador.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\NovoColaborador.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\NovoColaborador.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T00:43:44.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\index.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\index.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-04T20:35:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditarWorkshop.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\EditarWorkshop.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\EditarWorkshop.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:49:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditarWorkshop.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\EditarWorkshop.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\EditarWorkshop.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T00:49:11.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditarColaborador.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\EditarColaborador.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\EditarColaborador.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:51:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditarColaborador.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\EditarColaborador.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\EditarColaborador.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T00:50:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "colaboradores.js",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.js",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\colaboradores.js",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.js",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\colaboradores.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T00:21:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "colaboradores.html",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.html",
+              "RelativeDocumentMoniker": "wwwroot\\FrontEnd\\colaboradores.html",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.html",
+              "RelativeToolTip": "wwwroot\\FrontEnd\\colaboradores.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-04T21:58:52.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T20:58:52.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Models\\Colaborador.cs",
+              "RelativeToolTip": "Models\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:58:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Models\\Workshop.cs",
+              "RelativeDocumentMoniker": "Models\\Workshop.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Models\\Workshop.cs",
+              "RelativeToolTip": "Models\\Workshop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:58:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\Mam\u00E3e\\Fast\\DesafioFast\\DesafioFast\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:53:02.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

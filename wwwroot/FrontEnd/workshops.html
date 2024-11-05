@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão de Workshops</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Workshops</h1>
+
+
+        <input type="text" id="workshop-id" placeholder="Pesquisar por ID">
+        <button onclick="pesquisarWorkshopPorId()">Pesquisar</button>
+        <button onclick="listarTodosWorkshops()">Listar Todos</button>
+        <button onclick="window.location.href='novoWorkshop.html'">Novo Workshop</button>
+        <button onclick="voltarPagina()">Voltar</button>
+
+        <table id="workshops-table" style="display:none;">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <script src="workshops.js"></script>
+</body>
+</html>

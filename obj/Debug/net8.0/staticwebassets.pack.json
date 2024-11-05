@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\EditarColaborador.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarColaborador.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\EditarColaborador.js"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\EditarWorkshop.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\EditarWorkshop.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\EditarWorkshop.js"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\NovoColaborador.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoColaborador.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\NovoColaborador.js"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\NovoWorkshop.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\NovoWorkshop.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\NovoWorkshop.js"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\colaboradores.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\colaboradores.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\colaboradores.js"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\index.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\styles.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\workshops.html"
+    },
+    {
+      "Id": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Mamãe\\Fast\\DesafioFast\\DesafioFast\\wwwroot\\FrontEnd\\workshops.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\workshops.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DesafioFast.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DesafioFast.props",
+      "PackagePath": "build\\DesafioFast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DesafioFast.props",
+      "PackagePath": "buildMultiTargeting\\DesafioFast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DesafioFast.props",
+      "PackagePath": "buildTransitive\\DesafioFast.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

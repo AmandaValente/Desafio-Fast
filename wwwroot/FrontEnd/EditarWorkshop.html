@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Workshop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Editar Workshop</h1>
+        <form id="workshop-form">
+            <input type="hidden" id="workshop-id" value="" />
+
+            <label for="workshop-nome">Nome:</label>
+            <input type="text" id="workshop-nome" placeholder="Nome do Workshop" required />
+
+            <label for="workshop-data">Data de Realização:</label>
+            <input type="datetime-local" id="workshop-data" required />
+
+            <label for="workshop-descricao">Descrição:</label>
+            <input type="text" id="workshop-descricao" placeholder="Descrição do Workshop" required />
+
+            <button type="button" onclick="atualizarWorkshop()">Salvar</button>
+            <button type="button" onclick="window.location.href='workshops.html'">Voltar</button>
+        </form>
+    </div>
+    <script src="editarWorkshop.js"></script>
+</body>
+</html>
